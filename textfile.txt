@@ -1,2 +1,6 @@
 This is a today's textfile example
+<<<<<<< HEAD
 This is GB
+=======
+this is jkghfhtdyuio;ilkjghghljgk
+>>>>>>> 1102f5f0a5d915289e00530a8737c4afdf867179
